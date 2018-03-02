@@ -1,0 +1,12 @@
+<qnx>
+	<initialWindow>
+		<systemChrome>none</systemChrome>
+		<transparent>false</transparent>
+	</initialWindow>
+	<publisher>Pronic</publisher>
+    <author>Pronic</author>
+    <authorId>gYAAgAw55XXmDkLC04nW6ZdcgoI</authorId>
+	<category>core.utils</category>
+	<splashscreen>splash.jpg</splashscreen>
+	<icon><image>SciCalc.png</image></icon>
+</qnx>

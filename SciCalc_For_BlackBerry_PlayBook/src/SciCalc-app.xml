@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<application xmlns="http://ns.adobe.com/air/application/2.5">
+    <id>si.pronic.SciCalc</id>
+    <filename>SciCalc</filename>
+    <name>Sci Calc</name>
+    <versionNumber>1.4.0</versionNumber>
+    <versionLabel>v1.4.0</versionLabel>
+    <description>Sci Calc for BlackBerry Playbook</description>
+    <copyright>Pronic</copyright>
+    <initialWindow>
+        <content>SciCalc.swf</content>
+        <title>Sci Calc for BlackBerry™ Playbook® v1.4.0</title>
+        <visible>true</visible>
+        <maximizable>false</maximizable>
+        <resizable>false</resizable>
+        <autoOrients>false</autoOrients>
+        <aspectRatio>landscape</aspectRatio>
+        <fullScreen>true</fullScreen>
+    </initialWindow>
+    <icon>
+        <image72x72>SciCalc.png</image72x72>
+    </icon>
+</application>
